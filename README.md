@@ -22,4 +22,6 @@ This project analyzes sales demand, inventory performance, and supplier delivery
 - Excel
 - Data Modeling
 
-## Dashboard Preview
+## Dashboard Preview<img width="1168" height="670" alt="dashboard- page1" src="https://github.com/user-attachments/assets/190799e0-d90f-4886-b208-c1e5906b88a0" />
+<img width="1172" height="669" alt="dashboard- page 2" src="https://github.com/user-attachments/assets/5443c0c7-90ca-4ce5-ae31-5799928978bd" />
+
